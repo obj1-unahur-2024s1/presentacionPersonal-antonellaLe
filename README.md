@@ -1,35 +1,15 @@
 ![Logo UNAHUR](./assets/UNAHUR.png)
 
-Bienvenidos a
-# Programaci髇 con objetos I
+隆Hola!
 
-En esta materia aprender醤 sobre la famosa POO _(OOP en ingl閟)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
+Mi nombre es Antonella Ledesma, y estoy encantada de tener la oportunidad de presentarme ante ustedes hoy. Actualmente, me encuentro en el tercer cuatrimestre de la Tecnicatura en Programaci贸n de Videojuegos.
 
-```
-object programacionConObjetos { 
-    method saludar() { 
-        return  "Bienvenidxs!" 
-    }
-}
-```
+Mi camino hacia la programaci贸n de videojuegos ha sido algo diverso. Inicialmente, comence la carrera de arquitectura durante tres a帽os, donde desarroll茅 habilidades en dise帽o, creatividad y pensamiento cr铆tico. Tambi茅n tuve la oportunidad de trabajar en una ONG dedicada a la protecci贸n del medio ambiente, donde aprend铆 la importancia de la colaboraci贸n y el impacto positivo en la comunidad.
 
-## Datos de la cursada :book:
-* Modalidad Mixta
-* Horario comisi髇 1 **turno noche**: Martes 18 a 22hs y S醔ado 10 a 12hs.
-* Horario comisi髇 2 **turno ma馻na**: Mi閞coles 8 a 12hs y S醔ado 10 a 12hs. 
-* Este cuatrimestre los profesores somos Gerardo Gonz醠ez Tulian, Lucas Spigariol, Cristian Ciarallo y Hern醤 Coniglio
-* Adem醩 nos acompa馻n como colaboradores Valentino Chiappanni, Manuel Nu馿z y Lucian Coniglio.
+Sin embargo, mi interes por los videojuegos siempre estuvo presente en mi vida. Una experiencia significativa que me llev贸 a tomar la decisi贸n de cambiar de carrera fue cuando, durante mis estudios de arquitectura, tuve que crear un videojuego como parte de un proyecto de expresi贸n gr谩fica. Esta experiencia me mostr贸 la incre铆ble capacidad de los videojuegos para contar historias, crear mundos inmersivos y desafiar la imaginaci贸n. Desde entonces, supe que quer铆a dedicarme a explorar y crear experiencias interactivas como esta.
 
-## Links importantes :monocle_face:
-- [x] [P醙ina principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/13rFU2mObqdFF_2Ocimey_oHJ0Ldv-Gx0S1N4cfHKO4Q/edit?usp=sharing) de clases.
-- [x] [Matricularse](https://discord.gg/tqyHtPt) y ver el canal de Discord.
+Aunque mis conocimientos en programaci贸n son a煤n limitados, estoy emocionada de estar en este materia, donde estoy aprendiendo los fundamentos y adquiriendo habilidades que me permitir谩n contribuir al desarrollo de juegos en el futuro.
 
+Estoy interesada en explorar c贸mo puedo combinar mis habilidades previas en dise帽o arquitect贸nico con la programaci贸n para crear mundos virtuales cautivadores y experiencias interactivas memorables.
 
-### Referencias Markdown 
-* [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
-
-* [Gu韆 R鄍ida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en ingl閟)_
-
-* [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
+En resumen, estoy comprometida a aprovechar al m谩ximo mi tiempo en esta carrera y a aprender y crecer como profesional en el campo de la programaci贸n de videojuegos.
